@@ -50,3 +50,8 @@ All earth textures are from the [NASA Earth Observatory](http://earthobservatory
 
  ScreenShots
 ----------------------
+<img width="640" alt="earth4" src="https://user-images.githubusercontent.com/25967616/50052813-5d795e00-012a-11e9-92fb-e0290c5e3d38.png">
+<img width="640" alt="phong lighting1" src="https://user-images.githubusercontent.com/25967616/50052814-623e1200-012a-11e9-9382-7ebed4eea8a2.png">
+<img width="640" alt="phong lighting4" src="https://user-images.githubusercontent.com/25967616/50052816-69fdb680-012a-11e9-9a5c-6df9b48d5f9a.png">
+<img width="640" alt="sunglow2" src="https://user-images.githubusercontent.com/25967616/50052817-741fb500-012a-11e9-9536-f409349119a1.png">
+<img width="640" alt="earth3" src="https://user-images.githubusercontent.com/25967616/50052819-784bd280-012a-11e9-9a22-f663f2a825ab.png">
