@@ -47,3 +47,6 @@ Keyboard Settings
   Textures and Copyright
 ----------------------
 All earth textures are from the [NASA Earth Observatory](http://earthobservatory.nasa.gov/Features/BlueMarble/) and have been modified by Prof. Hartmut Schirmacher, Beuth Hochschule für Technik Berlin. The sun texture is from http://www.solarsystemscope.com/textures. All other textures are from http://textures.forrest.cz/index.php?spgmGal=maps&spgmPic=14. The ship model if from https://free3d.com.
+
+ ScreenShots
+----------------------
