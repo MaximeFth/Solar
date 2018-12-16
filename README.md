@@ -30,18 +30,6 @@ Building under Windows Visual Studio
   * On the right, there should be the solution explorer. Find the project `SolarViewer`, right click and choose `Set as StartUp Project`
   * Press CTRL + F5 to compile and run
 
-Documentation
--------------
-You may build an HTML documentation as long as you have [Doxygen](www.doxygen.org/) installed. To do so, still inside the directory `build`, execute the following command:
-
-    make doc
-
-View the documentation by opening the file `html/index.html` with any web browser / HTML viewer. If you are into LaTeX, navigate into the directory `latex` and execute the command `make` to create a printable version of the documentation.
-
-Textures and Copyright
-----------------------
-All earth textures are from the [NASA Earth Observatory](http://earthobservatory.nasa.gov/Features/BlueMarble/) and have been modified by Prof. Hartmut Schirmacher, Beuth Hochschule für Technik Berlin. The sun texture is from http://www.solarsystemscope.com/textures. All other textures are from http://textures.forrest.cz/index.php?spgmGal=maps&spgmPic=14. The ship model if from https://free3d.com.
-
 Keyboard Settings
 -----------------
   * arrow keys: Navigation Camera
@@ -55,3 +43,7 @@ Keyboard Settings
   * space:	pause 
   * r:		randomize planets' positions
   * escape:	exit viewer
+  
+  Textures and Copyright
+----------------------
+All earth textures are from the [NASA Earth Observatory](http://earthobservatory.nasa.gov/Features/BlueMarble/) and have been modified by Prof. Hartmut Schirmacher, Beuth Hochschule für Technik Berlin. The sun texture is from http://www.solarsystemscope.com/textures. All other textures are from http://textures.forrest.cz/index.php?spgmGal=maps&spgmPic=14. The ship model if from https://free3d.com.
